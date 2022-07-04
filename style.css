@@ -1,0 +1,33 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 45px;
+}
+span{
+    color: darkorange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 45%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 80%;
+}
+.hire-link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 8px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.top-icon{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
